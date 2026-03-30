@@ -1,4 +1,4 @@
-# 🐱‍👤 Brayan Nunes
+# 🐐 Brayan Nunes
 
 ### **`Estudante FullStack`**
 
