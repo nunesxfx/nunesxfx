@@ -2,7 +2,7 @@
 
 ### **`Estudante FullStack`**
 
-Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de Analise e Desenvolvimento de Sistemas, também estudo na Faculdade de Tecnologia de Santo André (FATEC). Desde de novo sou apaixonado por tecnologia sempre em busca de novos conhecimentos e desafios. Para informações curriculares acesse meu "[LinkedIn](https://www.linkedin.com/in/brayannunes/)".
+Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de Analise e Desenvolvimento de Sistemas e na Faculdade de Tecnologia de Santo André (FATEC). Desde de novo sou apaixonado por tecnologia sempre em busca de novos conhecimentos e desafios. Para informações curriculares acesse meu "[LinkedIn](https://www.linkedin.com/in/brayannunes/)".
 
 <p align="left">
     <a href="https://github.com/nunesxfx?tab=repositories&sort=stargazers">
@@ -112,20 +112,23 @@ Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Sa
 
 ---
 
-### 🎲 Métricas
+### 🔥 Métricas e Linguagens
+  <p>
+    <a href="https://github.com/nunesxfx/github-readme-streak-stats">
+      <img 
+      title="🔥🔥🔥🔥🔥🔥" 
+      alt="Brayan Sequencai" 
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=nunesxfx&theme=monokai-metallian&hide_border=true&short_numbers=true&locale=pt_BR"/>
+    </a>
+  </p>
 
-<img 
-    align = "left" 
-    alt = "GitHub Status" 
-    height = "200" 
-    style = "padding-right: 10px;"
-    src = "https://github-readme-stats.vercel.app/api?username=nunesxfx&show_icons=true&theme=dracula&include_all_commits=true&locale-pt-br" 
-/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Brayan Nunes Github Stats" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nunesxfx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&locale=pt-br" height="192px"/>
+</a>
 
-<img 
-    align = "left" 
-    alt = "GitHub Status" 
-    height = "200" 
-    style = "padding-right: 10px;"
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nunesxfx&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+<a href="https://github.com/anuraghazra/github-readme-stats"
+     ><img alt="DenverCoder1's Top Languages" 
+     src="https://nunesxfx-github-readme-stats.vercel.app/api/top-langs/?username=nunesxfx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
+     height="192px"/></a>
+  <br/>
