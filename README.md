@@ -2,7 +2,7 @@
 
 ### **`Estudante FullStack`**
 
-Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de Analise e Desenvolvimento de Sistemas e na Faculdade de Tecnologia de Santo André (FATEC) no curso de Sistemas Embarcados. Desde de novo sou apaixonado por tecnologia sempre em busca de novos conhecimentos e desafios. Para informações curriculares acesse meu "[LinkedIn](https://www.linkedin.com/in/brayannunes/)".
+Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de Analise e Desenvolvimento de Sistemas e na Faculdade de Tecnologia de Santo André (FATEC)  no curso de Sistemas Embarcados. Desde de novo sou apaixonado por tecnologia sempre em busca de novos conhecimentos e desafios. Para informações curriculares acesse meu "[LinkedIn](https://www.linkedin.com/in/brayannunes/)".
 
 <p align="left">
     <a href="https://github.com/nunesxfx?tab=repositories&sort=stargazers">
@@ -124,7 +124,7 @@ Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Sa
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Brayan Nunes Github Stats" 
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nunesxfx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&locale=pt-br" height="192px"/>
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nunesxfx&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&locale=pt-br" height="192px"/>
 </a>
 
 <!-- a href="https://github.com/anuraghazra/github-readme-stats"
