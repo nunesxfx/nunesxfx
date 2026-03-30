@@ -2,7 +2,7 @@
 
 ### **`Estudante FullStack`**
 
-Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de Analise e Desenvolvimento de Sistemas e na Faculdade de Tecnologia de Santo André (FATEC). Desde de novo sou apaixonado por tecnologia sempre em busca de novos conhecimentos e desafios. Para informações curriculares acesse meu "[LinkedIn](https://www.linkedin.com/in/brayannunes/)".
+Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de Analise e Desenvolvimento de Sistemas e na Faculdade de Tecnologia de Santo André (FATEC) no curso de Sistemas Embarcados. Desde de novo sou apaixonado por tecnologia sempre em busca de novos conhecimentos e desafios. Para informações curriculares acesse meu "[LinkedIn](https://www.linkedin.com/in/brayannunes/)".
 
 <p align="left">
     <a href="https://github.com/nunesxfx?tab=repositories&sort=stargazers">
