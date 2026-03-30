@@ -114,7 +114,7 @@ Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Sa
 
 ### 🔥 Métricas e Linguagens
   <p>
-    <a href="https://github.com/nunesxfx/github-readme-streak-stats">
+    <a href="https://github-readme-streak-stats-eight.vercel.app">
       <img 
       title="🔥🔥🔥🔥🔥🔥" 
       alt="Brayan Sequencai" 
@@ -127,8 +127,8 @@ Me chamo Brayan Nunes e tenho 18 anos. Atualmente sou estudante da Fundação Sa
     src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nunesxfx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&locale=pt-br" height="192px"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"
-     ><img alt="DenverCoder1's Top Languages" 
-     src="https://nunesxfx-github-readme-stats.vercel.app/api/top-langs/?username=nunesxfx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
+<!-- a href="https://github.com/anuraghazra/github-readme-stats"
+     ><img alt="Brayan Principais Linguagens" 
+     src="https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only"
      height="192px"/></a>
-  <br/>
+  <br/> fazer funcionar (estudar como) -->
