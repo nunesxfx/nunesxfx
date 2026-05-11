@@ -9,7 +9,6 @@ Tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de A
 
 ## 🌐 Contatos
 
-
 <p align="left">
   <a href="https://github.com/nunesxfx">
     <img src="https://img.shields.io/badge/GitHub-nunesxfx-181717?style=for-the-badge&logo=github" />
@@ -17,7 +16,6 @@ Tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de A
   <a href="https://www.linkedin.com/in/brayannunes/">
     <img src="https://img.shields.io/badge/LinkedIn-brayannunes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
 
 ---
 
@@ -46,8 +44,8 @@ Tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de A
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![PostgreSQL](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### DevOps & Tools
 
@@ -59,27 +57,26 @@ Tenho 18 anos. Atualmente sou estudante da Fundação Santo André no curso de A
 ---
 
 ## 📊 GitHub Stats
+
   <p>
-    <a href="https://github.com/nunesxfx">
-      <img 
-      title="🔥🔥🔥🔥🔥🔥" 
-      alt="Brayan Sequencai" 
+    <a href="https://github-readme-streak-stats-eight.vercel.app">
+      <img
+      title="🔥🔥🔥🔥🔥🔥"
+      alt="Brayan Sequencai"
       src="https://github-readme-streak-stats-eight.vercel.app/?user=nunesxfx&theme=monokai-metallian&hide_border=true&short_numbers=true&locale=pt_BR"/>
     </a>
   </p>
-
-<a href="https://github.com/nunesxfx">
-    <img alt="Brayan Nunes Github Stats" 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Brayan Nunes Github Stats"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nunesxfx&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&locale=pt-br" height="192px"/>
 </a>
 
 ---
+
 ## 🚀 Filosofia
 
 > _"Programar não se trata apenas de resolver problemas.
 > Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real para o mundo."_
-
 ---
-
 ⭐ Se você gostou do meu trabalho, considere adicionar aos repositórios favoritos!  
 🤝 Sempre aberto a colaborações, parcerias e ideias inovadoras!
